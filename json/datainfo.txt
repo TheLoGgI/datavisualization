@@ -1,0 +1,9 @@
+Geographic units by industry and statistical area 2000–19 descending order – CSV
+Source: https://www.stats.govt.nz/large-datasets/csv-files-for-download/
+lookupArea.json - Area for industry
+lookupIndutry.json - Type of Industry
+
+saleryOfFebruary.json
+ec_count	- This is a head-count of all salary and wage earners for the February reference month. Due to rounding individual figures my not always sum to the stated total(s).
+geo_count -	A separate operating unit engaged in New Zealand in one, or predominately one, kind of economic activity from a single physical location or base. Due to rounding individual figures my not always sum to the stated total(s).
+anzsic06 - Total Industry

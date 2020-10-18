@@ -1,0 +1,1601 @@
+[{
+        "Code": "Total",
+        "Description": "Total Industry",
+        "SortOrder": 1
+    },
+    {
+        "Code": "A",
+        "Description": "A Agriculture, Forestry and Fishing",
+        "SortOrder": 2
+    },
+    {
+        "Code": "B",
+        "Description": "B Mining",
+        "SortOrder": 3
+    },
+    {
+        "Code": "C",
+        "Description": "C Manufacturing",
+        "SortOrder": 4
+    },
+    {
+        "Code": "D",
+        "Description": "D Electricity, Gas, Water and Waste Services",
+        "SortOrder": 5
+    },
+    {
+        "Code": "E",
+        "Description": "E Construction",
+        "SortOrder": 6
+    },
+    {
+        "Code": "F",
+        "Description": "F Wholesale Trade",
+        "SortOrder": 7
+    },
+    {
+        "Code": "G",
+        "Description": "G Retail Trade",
+        "SortOrder": 8
+    },
+    {
+        "Code": "H",
+        "Description": "H Accommodation and Food Services",
+        "SortOrder": 9
+    },
+    {
+        "Code": "I",
+        "Description": "I Transport, Postal and Warehousing",
+        "SortOrder": 10
+    },
+    {
+        "Code": "J",
+        "Description": "J Information Media and Telecommunications",
+        "SortOrder": 11
+    },
+    {
+        "Code": "K",
+        "Description": "K Financial and Insurance Services",
+        "SortOrder": 12
+    },
+    {
+        "Code": "L",
+        "Description": "L Rental, Hiring and Real Estate Services",
+        "SortOrder": 13
+    },
+    {
+        "Code": "M",
+        "Description": "M Professional, Scientific and Technical Services",
+        "SortOrder": 14
+    },
+    {
+        "Code": "N",
+        "Description": "N Administrative and Support Services",
+        "SortOrder": 15
+    },
+    {
+        "Code": "O",
+        "Description": "O Public Administration and Safety",
+        "SortOrder": 16
+    },
+    {
+        "Code": "P",
+        "Description": "P Education and Training",
+        "SortOrder": 17
+    },
+    {
+        "Code": "Q",
+        "Description": "Q Health Care and Social Assistance",
+        "SortOrder": 18
+    },
+    {
+        "Code": "R",
+        "Description": "R Arts and Recreation Services",
+        "SortOrder": 19
+    },
+    {
+        "Code": "S",
+        "Description": "S Other Services",
+        "SortOrder": 20
+    },
+    {
+        "Code": "A01",
+        "Description": "A01 Agriculture",
+        "SortOrder": 21
+    },
+    {
+        "Code": "A02",
+        "Description": "A02 Aquaculture",
+        "SortOrder": 22
+    },
+    {
+        "Code": "A03",
+        "Description": "A03 Forestry and Logging",
+        "SortOrder": 23
+    },
+    {
+        "Code": "A04",
+        "Description": "A04 Fishing, Hunting and Trapping",
+        "SortOrder": 24
+    },
+    {
+        "Code": "A05",
+        "Description": "A05 Agriculture, Forestry and Fishing Support Services",
+        "SortOrder": 25
+    },
+    {
+        "Code": "B06",
+        "Description": "B06 Coal Mining",
+        "SortOrder": 26
+    },
+    {
+        "Code": "B07",
+        "Description": "B07 Oil and Gas Extraction",
+        "SortOrder": 27
+    },
+    {
+        "Code": "B08",
+        "Description": "B08 Metal Ore Mining",
+        "SortOrder": 28
+    },
+    {
+        "Code": "B09",
+        "Description": "B09 Non-Metallic Mineral Mining and Quarrying",
+        "SortOrder": 29
+    },
+    {
+        "Code": "B10",
+        "Description": "B10 Exploration and Other Mining Support Services",
+        "SortOrder": 30
+    },
+    {
+        "Code": "C11",
+        "Description": "C11 Food Product Manufacturing",
+        "SortOrder": 31
+    },
+    {
+        "Code": "C12",
+        "Description": "C12  Beverage and Tobacco Product Manufacturing",
+        "SortOrder": 32
+    },
+    {
+        "Code": "C13",
+        "Description": "C13 Textile, Leather, Clothing and Footwear Manufacturing",
+        "SortOrder": 33
+    },
+    {
+        "Code": "C14",
+        "Description": "C14 Wood Product Manufacturing",
+        "SortOrder": 34
+    },
+    {
+        "Code": "C15",
+        "Description": "C15 Pulp, Paper and Converted Paper Product Manufacturing",
+        "SortOrder": 35
+    },
+    {
+        "Code": "C16",
+        "Description": "C16 Printing",
+        "SortOrder": 36
+    },
+    {
+        "Code": "C17",
+        "Description": "C17 Petroleum and Coal Product Manufacturing",
+        "SortOrder": 37
+    },
+    {
+        "Code": "C18",
+        "Description": "C18 Basic Chemical and Chemical Product Manufacturing",
+        "SortOrder": 38
+    },
+    {
+        "Code": "C19",
+        "Description": "C19 Polymer Product and Rubber Product Manufacturing",
+        "SortOrder": 39
+    },
+    {
+        "Code": "C20",
+        "Description": "C20 Non-Metallic Mineral Product Manufacturing",
+        "SortOrder": 40
+    },
+    {
+        "Code": "C21",
+        "Description": "C21 Primary Metal and Metal Product Manufacturing",
+        "SortOrder": 41
+    },
+    {
+        "Code": "C22",
+        "Description": "C22 Fabricated Metal Product Manufacturing",
+        "SortOrder": 42
+    },
+    {
+        "Code": "C23",
+        "Description": "C23 Transport Equipment Manufacturing",
+        "SortOrder": 43
+    },
+    {
+        "Code": "C24",
+        "Description": "C24 Machinery and Equipment Manufacturing",
+        "SortOrder": 44
+    },
+    {
+        "Code": "C25",
+        "Description": "C25 Furniture and Other Manufacturing",
+        "SortOrder": 45
+    },
+    {
+        "Code": "D26",
+        "Description": "D26  Electricity Supply",
+        "SortOrder": 46
+    },
+    {
+        "Code": "D27",
+        "Description": "D27 Gas Supply",
+        "SortOrder": 47
+    },
+    {
+        "Code": "D28",
+        "Description": "D28 Water Supply, Sewerage and Drainage Services",
+        "SortOrder": 48
+    },
+    {
+        "Code": "D29",
+        "Description": "D29 Waste Collection, Treatment and Disposal Services",
+        "SortOrder": 49
+    },
+    {
+        "Code": "E30",
+        "Description": "E30  Building Construction",
+        "SortOrder": 50
+    },
+    {
+        "Code": "E31",
+        "Description": "E31 Heavy and Civil Engineering Construction",
+        "SortOrder": 51
+    },
+    {
+        "Code": "E32",
+        "Description": "E32 Construction Services",
+        "SortOrder": 52
+    },
+    {
+        "Code": "F33",
+        "Description": "F33 Basic Material Wholesaling",
+        "SortOrder": 53
+    },
+    {
+        "Code": "F34",
+        "Description": "F34 Machinery and Equipment Wholesaling",
+        "SortOrder": 54
+    },
+    {
+        "Code": "F35",
+        "Description": "F35 Motor Vehicle and Motor Vehicle Parts Wholesaling",
+        "SortOrder": 55
+    },
+    {
+        "Code": "F36",
+        "Description": "F36 Grocery, Liquor and Tobacco Product Wholesaling",
+        "SortOrder": 56
+    },
+    {
+        "Code": "F37",
+        "Description": "F37 Other Goods Wholesaling",
+        "SortOrder": 57
+    },
+    {
+        "Code": "F38",
+        "Description": "F38 Commission-Based Wholesaling",
+        "SortOrder": 58
+    },
+    {
+        "Code": "G39",
+        "Description": "G39 Motor Vehicle and Motor Vehicle Parts Retailing",
+        "SortOrder": 59
+    },
+    {
+        "Code": "G40",
+        "Description": "G40 Fuel Retailing",
+        "SortOrder": 60
+    },
+    {
+        "Code": "G41",
+        "Description": "G41 Food Retailing",
+        "SortOrder": 61
+    },
+    {
+        "Code": "G42",
+        "Description": "G42 Other Store-Based Retailing",
+        "SortOrder": 62
+    },
+    {
+        "Code": "G43",
+        "Description": "G43 Non-Store Retailing and Retail Commission Based Buying and/or Selling",
+        "SortOrder": 63
+    },
+    {
+        "Code": "H44",
+        "Description": "H44 Accommodation",
+        "SortOrder": 64
+    },
+    {
+        "Code": "H45",
+        "Description": "H45 Food and Beverage Services",
+        "SortOrder": 65
+    },
+    {
+        "Code": "I46",
+        "Description": "I46 Road Transport",
+        "SortOrder": 66
+    },
+    {
+        "Code": "I47",
+        "Description": "I47 Rail Transport",
+        "SortOrder": 67
+    },
+    {
+        "Code": "I48",
+        "Description": "I48 Water Transport",
+        "SortOrder": 68
+    },
+    {
+        "Code": "I49",
+        "Description": "I49 Air and Space Transport",
+        "SortOrder": 69
+    },
+    {
+        "Code": "I50",
+        "Description": "I50 Other Transport",
+        "SortOrder": 70
+    },
+    {
+        "Code": "I51",
+        "Description": "I51 Postal and Courier Pick-up and Delivery Services",
+        "SortOrder": 71
+    },
+    {
+        "Code": "I52",
+        "Description": "I52 Transport Support Services",
+        "SortOrder": 72
+    },
+    {
+        "Code": "I53",
+        "Description": "I53 Warehousing and Storage Services",
+        "SortOrder": 73
+    },
+    {
+        "Code": "J54",
+        "Description": "J54 Publishing (except Internet and Music Publishing)",
+        "SortOrder": 74
+    },
+    {
+        "Code": "J55",
+        "Description": "J55 Motion Picture and Sound Recording Activities",
+        "SortOrder": 75
+    },
+    {
+        "Code": "J56",
+        "Description": "J56 Broadcasting (except Internet)",
+        "SortOrder": 76
+    },
+    {
+        "Code": "J57",
+        "Description": "J57 Internet Publishing and Broadcasting",
+        "SortOrder": 77
+    },
+    {
+        "Code": "J58",
+        "Description": "J58 Telecommunications Services",
+        "SortOrder": 78
+    },
+    {
+        "Code": "J59",
+        "Description": "J59 Internet Service Providers, Web Search Portals and Data Processing Services",
+        "SortOrder": 79
+    },
+    {
+        "Code": "J60",
+        "Description": "J60 Library and Other Information Services",
+        "SortOrder": 80
+    },
+    {
+        "Code": "K62",
+        "Description": "K62 Finance",
+        "SortOrder": 81
+    },
+    {
+        "Code": "K63",
+        "Description": "K63 Insurance and Superannuation Funds",
+        "SortOrder": 82
+    },
+    {
+        "Code": "K64",
+        "Description": "K64 Auxiliary Finance and Insurance Services",
+        "SortOrder": 83
+    },
+    {
+        "Code": "L66",
+        "Description": "L66 Rental and Hiring Services (except Real Estate)",
+        "SortOrder": 84
+    },
+    {
+        "Code": "L67",
+        "Description": "L67 Property Operators and Real Estate Services",
+        "SortOrder": 85
+    },
+    {
+        "Code": "M69",
+        "Description": "M69 Professional, Scientific and Technical Services (except Computer Systems Design and Related Services)",
+        "SortOrder": 86
+    },
+    {
+        "Code": "M70",
+        "Description": "M70 Computer System Design and Related Services",
+        "SortOrder": 87
+    },
+    {
+        "Code": "N72",
+        "Description": "N72 Administrative Services",
+        "SortOrder": 88
+    },
+    {
+        "Code": "N73",
+        "Description": "N73 Building Cleaning, Pest Control and Other Support Services",
+        "SortOrder": 89
+    },
+    {
+        "Code": "O75",
+        "Description": "O75 Public Administration",
+        "SortOrder": 90
+    },
+    {
+        "Code": "O76",
+        "Description": "O76 Defence",
+        "SortOrder": 91
+    },
+    {
+        "Code": "O77",
+        "Description": "O77 Public Order, Safety and Regulatory Services",
+        "SortOrder": 92
+    },
+    {
+        "Code": "P80",
+        "Description": "P80 Preschool and School Education",
+        "SortOrder": 93
+    },
+    {
+        "Code": "P81",
+        "Description": "P81 Tertiary Education",
+        "SortOrder": 94
+    },
+    {
+        "Code": "P82",
+        "Description": "P82 Adult, Community and Other Education",
+        "SortOrder": 95
+    },
+    {
+        "Code": "Q84",
+        "Description": "Q84 Hospitals",
+        "SortOrder": 96
+    },
+    {
+        "Code": "Q85",
+        "Description": "Q85 Medical and Other Health Care Services",
+        "SortOrder": 97
+    },
+    {
+        "Code": "Q86",
+        "Description": "Q86 Residential Care Services",
+        "SortOrder": 98
+    },
+    {
+        "Code": "Q87",
+        "Description": "Q87 Social Assistance Services",
+        "SortOrder": 99
+    },
+    {
+        "Code": "R89",
+        "Description": "R89 Heritage Activities",
+        "SortOrder": 100
+    },
+    {
+        "Code": "R90",
+        "Description": "R90 Artistic Activities",
+        "SortOrder": 101
+    },
+    {
+        "Code": "R91",
+        "Description": "R91 Sport and Recreation Activities",
+        "SortOrder": 102
+    },
+    {
+        "Code": "R92",
+        "Description": "R92 Gambling Activities",
+        "SortOrder": 103
+    },
+    {
+        "Code": "S94",
+        "Description": "S94 Repair and Maintenance",
+        "SortOrder": 104
+    },
+    {
+        "Code": "S95",
+        "Description": "S95 Personal and Other Services",
+        "SortOrder": 105
+    },
+    {
+        "Code": "S96",
+        "Description": "S96 Private Households Employing Staff",
+        "SortOrder": 106
+    },
+    {
+        "Code": "A011",
+        "Description": "A011 Nursery and Floriculture Production",
+        "SortOrder": 107
+    },
+    {
+        "Code": "A012",
+        "Description": "A012 Mushroom and Vegetable Growing",
+        "SortOrder": 108
+    },
+    {
+        "Code": "A013",
+        "Description": "A013 Fruit and Tree Nut Growing",
+        "SortOrder": 109
+    },
+    {
+        "Code": "A014",
+        "Description": "A014 Sheep, Beef Cattle and Grain Farming",
+        "SortOrder": 110
+    },
+    {
+        "Code": "A015",
+        "Description": "A015 Other Crop Growing",
+        "SortOrder": 111
+    },
+    {
+        "Code": "A016",
+        "Description": "A016 Dairy Cattle Farming",
+        "SortOrder": 112
+    },
+    {
+        "Code": "A017",
+        "Description": "A017 Poultry Farming",
+        "SortOrder": 113
+    },
+    {
+        "Code": "A018",
+        "Description": "A018 Deer Farming",
+        "SortOrder": 114
+    },
+    {
+        "Code": "A019",
+        "Description": "A019 Other Livestock Farming",
+        "SortOrder": 115
+    },
+    {
+        "Code": "A020",
+        "Description": "A020 Aquaculture",
+        "SortOrder": 116
+    },
+    {
+        "Code": "A030",
+        "Description": "A030 Forestry and Logging",
+        "SortOrder": 117
+    },
+    {
+        "Code": "A041",
+        "Description": "A041 Fishing",
+        "SortOrder": 118
+    },
+    {
+        "Code": "A042",
+        "Description": "A042 Hunting and Trapping",
+        "SortOrder": 119
+    },
+    {
+        "Code": "A051",
+        "Description": "A051  Forestry Support Services",
+        "SortOrder": 120
+    },
+    {
+        "Code": "A052",
+        "Description": "A052 Agriculture and Fishing Support Services",
+        "SortOrder": 121
+    },
+    {
+        "Code": "B060",
+        "Description": "B060 Coal Mining",
+        "SortOrder": 122
+    },
+    {
+        "Code": "B070",
+        "Description": "B070 Oil and Gas Extraction",
+        "SortOrder": 123
+    },
+    {
+        "Code": "B080",
+        "Description": "B080 Metal Ore Mining",
+        "SortOrder": 124
+    },
+    {
+        "Code": "B091",
+        "Description": "B091 Construction Material Mining",
+        "SortOrder": 125
+    },
+    {
+        "Code": "B099",
+        "Description": "B099 Other Non-Metallic Mineral Mining and Quarrying",
+        "SortOrder": 126
+    },
+    {
+        "Code": "B101",
+        "Description": "B101 Exploration",
+        "SortOrder": 127
+    },
+    {
+        "Code": "B109",
+        "Description": "B109 Other Mining Support Services",
+        "SortOrder": 128
+    },
+    {
+        "Code": "C111",
+        "Description": "C111 Meat and Meat Product Manufacturing",
+        "SortOrder": 129
+    },
+    {
+        "Code": "C112",
+        "Description": "C112 Seafood Processing",
+        "SortOrder": 130
+    },
+    {
+        "Code": "C113",
+        "Description": "C113 Dairy Product Manufacturing",
+        "SortOrder": 131
+    },
+    {
+        "Code": "C114",
+        "Description": "C114 Fruit and Vegetable Processing",
+        "SortOrder": 132
+    },
+    {
+        "Code": "C115",
+        "Description": "C115 Oil and Fat Manufacturing",
+        "SortOrder": 133
+    },
+    {
+        "Code": "C116",
+        "Description": "C116 Grain Mill and Cereal Product Manufacturing",
+        "SortOrder": 134
+    },
+    {
+        "Code": "C117",
+        "Description": "C117 Bakery Product Manufacturing",
+        "SortOrder": 135
+    },
+    {
+        "Code": "C118",
+        "Description": "C118 Sugar and Confectionery Manufacturing",
+        "SortOrder": 136
+    },
+    {
+        "Code": "C119",
+        "Description": "C119 Other Food Product Manufacturing",
+        "SortOrder": 137
+    },
+    {
+        "Code": "C121",
+        "Description": "C121 Beverage Manufacturing",
+        "SortOrder": 138
+    },
+    {
+        "Code": "C122",
+        "Description": "C122 Cigarette and Tobacco Product Manufacturing",
+        "SortOrder": 139
+    },
+    {
+        "Code": "C131",
+        "Description": "C131 Textile Fibre, Yarn and Woven Fabric Manufacturing",
+        "SortOrder": 140
+    },
+    {
+        "Code": "C132",
+        "Description": "C132 Leather Tanning and Fur Dressing",
+        "SortOrder": 141
+    },
+    {
+        "Code": "C133",
+        "Description": "C133 Textile Product Manufacturing",
+        "SortOrder": 142
+    },
+    {
+        "Code": "C134",
+        "Description": "C134 Knitted Product Manufacturing",
+        "SortOrder": 143
+    },
+    {
+        "Code": "C135",
+        "Description": "C135 Clothing and Footwear Manufacturing",
+        "SortOrder": 144
+    },
+    {
+        "Code": "C141",
+        "Description": "C141 Log Sawmilling and Timber Dressing",
+        "SortOrder": 145
+    },
+    {
+        "Code": "C149",
+        "Description": "C149 Other Wood Product Manufacturing",
+        "SortOrder": 146
+    },
+    {
+        "Code": "C151",
+        "Description": "C151 Pulp, Paper and Paperboard Manufacturing",
+        "SortOrder": 147
+    },
+    {
+        "Code": "C152",
+        "Description": "C152 Converted Paper Product Manufacturing",
+        "SortOrder": 148
+    },
+    {
+        "Code": "C161",
+        "Description": "C161 Printing",
+        "SortOrder": 149
+    },
+    {
+        "Code": "C162",
+        "Description": "C162 Reproduction of Recorded Media",
+        "SortOrder": 150
+    },
+    {
+        "Code": "C170",
+        "Description": "C170 Petroleum Refining and Petroleum and Coal Product Manufacturing",
+        "SortOrder": 151
+    },
+    {
+        "Code": "C181",
+        "Description": "C181 Chemical Manufacturing",
+        "SortOrder": 152
+    },
+    {
+        "Code": "C182",
+        "Description": "C182 Basic Polymer Manufacturing",
+        "SortOrder": 153
+    },
+    {
+        "Code": "C183",
+        "Description": "C183 Fertiliser and Pesticide Manufacturing",
+        "SortOrder": 154
+    },
+    {
+        "Code": "C184",
+        "Description": "C184 Pharmaceutical and Medicinal Product Manufacturing",
+        "SortOrder": 155
+    },
+    {
+        "Code": "C185",
+        "Description": "C185 Cleaning Compound and Toiletry Preparation Manufacturing",
+        "SortOrder": 156
+    },
+    {
+        "Code": "C189",
+        "Description": "C189 Other Basic Chemical Product Manufacturing",
+        "SortOrder": 157
+    },
+    {
+        "Code": "C191",
+        "Description": "C191 Polymer Product Manufacturing",
+        "SortOrder": 158
+    },
+    {
+        "Code": "C192",
+        "Description": "C192 Natural Rubber Product Manufacturing",
+        "SortOrder": 159
+    },
+    {
+        "Code": "C201",
+        "Description": "C201 Glass and Glass Product Manufacturing",
+        "SortOrder": 160
+    },
+    {
+        "Code": "C202",
+        "Description": "C202 Ceramic Product Manufacturing",
+        "SortOrder": 161
+    },
+    {
+        "Code": "C203",
+        "Description": "C203 Cement, Lime, Plaster and Concrete Product Manufacturing",
+        "SortOrder": 162
+    },
+    {
+        "Code": "C209",
+        "Description": "C209 Other Non-Metallic Mineral Product Manufacturing",
+        "SortOrder": 163
+    },
+    {
+        "Code": "C211",
+        "Description": "C211 Basic Ferrous Metal Manufacturing",
+        "SortOrder": 164
+    },
+    {
+        "Code": "C212",
+        "Description": "C212 Basic Ferrous Metal Product Manufacturing",
+        "SortOrder": 165
+    },
+    {
+        "Code": "C213",
+        "Description": "C213 Basic Non-Ferrous Metal Manufacturing",
+        "SortOrder": 166
+    },
+    {
+        "Code": "C214",
+        "Description": "C214 Basic Non-Ferrous Metal Product Manufacturing",
+        "SortOrder": 167
+    },
+    {
+        "Code": "C221",
+        "Description": "C221  Iron and Steel Forging",
+        "SortOrder": 168
+    },
+    {
+        "Code": "C222",
+        "Description": "C222 Structural Metal Product Manufacturing",
+        "SortOrder": 169
+    },
+    {
+        "Code": "C223",
+        "Description": "C223 Metal Container Manufacturing",
+        "SortOrder": 170
+    },
+    {
+        "Code": "C224",
+        "Description": "C224 Other Sheet Metal Product Manufacturing",
+        "SortOrder": 171
+    },
+    {
+        "Code": "C229",
+        "Description": "C229 Other Fabricated Metal Product Manufacturing",
+        "SortOrder": 172
+    },
+    {
+        "Code": "C231",
+        "Description": "C231 Motor Vehicle and Motor Vehicle Part Manufacturing",
+        "SortOrder": 173
+    },
+    {
+        "Code": "C239",
+        "Description": "C239 Other Transport Equipment Manufacturing",
+        "SortOrder": 174
+    },
+    {
+        "Code": "C241",
+        "Description": "C241 Professional and Scientific Equipment Manufacturing",
+        "SortOrder": 175
+    },
+    {
+        "Code": "C242",
+        "Description": "C242 Computer and Electronic Equipment Manufacturing",
+        "SortOrder": 176
+    },
+    {
+        "Code": "C243",
+        "Description": "C243 Electrical Equipment Manufacturing",
+        "SortOrder": 177
+    },
+    {
+        "Code": "C244",
+        "Description": "C244 Domestic Appliance Manufacturing",
+        "SortOrder": 178
+    },
+    {
+        "Code": "C245",
+        "Description": "C245 Pump, Compressor, Heating and Ventilation Equipment Manufacturing",
+        "SortOrder": 179
+    },
+    {
+        "Code": "C246",
+        "Description": "C246 Specialised Machinery and Equipment Manufacturing",
+        "SortOrder": 180
+    },
+    {
+        "Code": "C249",
+        "Description": "C249 Other Machinery and Equipment Manufacturing",
+        "SortOrder": 181
+    },
+    {
+        "Code": "C251",
+        "Description": "C251 Furniture Manufacturing",
+        "SortOrder": 182
+    },
+    {
+        "Code": "C259",
+        "Description": "C259 Other Manufacturing",
+        "SortOrder": 183
+    },
+    {
+        "Code": "D261",
+        "Description": "D261 Electricity Generation",
+        "SortOrder": 184
+    },
+    {
+        "Code": "D262",
+        "Description": "D262 Electricity Transmission",
+        "SortOrder": 185
+    },
+    {
+        "Code": "D263",
+        "Description": "D263 Electricity Distribution",
+        "SortOrder": 186
+    },
+    {
+        "Code": "D264",
+        "Description": "D264 On Selling Electricity and Electricity Market Operation",
+        "SortOrder": 187
+    },
+    {
+        "Code": "D270",
+        "Description": "D270 Gas Supply",
+        "SortOrder": 188
+    },
+    {
+        "Code": "D281",
+        "Description": "D281 Water Supply, Sewerage and Drainage Services",
+        "SortOrder": 189
+    },
+    {
+        "Code": "D291",
+        "Description": "D291 Waste Collection Services",
+        "SortOrder": 190
+    },
+    {
+        "Code": "D292",
+        "Description": "D292 Waste Treatment, Disposal and Remediation Services",
+        "SortOrder": 191
+    },
+    {
+        "Code": "E301",
+        "Description": "E301 Residential Building Construction",
+        "SortOrder": 192
+    },
+    {
+        "Code": "E302",
+        "Description": "E302 Non-Residential Building Construction",
+        "SortOrder": 193
+    },
+    {
+        "Code": "E310",
+        "Description": "E310 Heavy and Civil Engineering Construction",
+        "SortOrder": 194
+    },
+    {
+        "Code": "E321",
+        "Description": "E321 Land Development and Site Preparation Services",
+        "SortOrder": 195
+    },
+    {
+        "Code": "E322",
+        "Description": "E322 Building Structure Services",
+        "SortOrder": 196
+    },
+    {
+        "Code": "E323",
+        "Description": "E323 Building Installation Services",
+        "SortOrder": 197
+    },
+    {
+        "Code": "E324",
+        "Description": "E324 Building Completion Services",
+        "SortOrder": 198
+    },
+    {
+        "Code": "E329",
+        "Description": "E329 Other Construction Services",
+        "SortOrder": 199
+    },
+    {
+        "Code": "F331",
+        "Description": "F331 Agricultural Product Wholesaling",
+        "SortOrder": 200
+    },
+    {
+        "Code": "F332",
+        "Description": "F332 Mineral, Metal and Chemical Wholesaling",
+        "SortOrder": 201
+    },
+    {
+        "Code": "F333",
+        "Description": "F333 Timber and Hardware Goods Wholesaling",
+        "SortOrder": 202
+    },
+    {
+        "Code": "F341",
+        "Description": "F341 Specialised Industrial Machinery and Equipment Wholesaling",
+        "SortOrder": 203
+    },
+    {
+        "Code": "F349",
+        "Description": "F349 Other Machinery and Equipment Wholesaling",
+        "SortOrder": 204
+    },
+    {
+        "Code": "F350",
+        "Description": "F350 Motor Vehicle and Motor Vehicle Parts Wholesaling",
+        "SortOrder": 205
+    },
+    {
+        "Code": "F360",
+        "Description": "F360 Grocery, Liquor and Tobacco Product Wholesaling",
+        "SortOrder": 206
+    },
+    {
+        "Code": "F371",
+        "Description": "F371 Textile, Clothing and Footwear Wholesaling",
+        "SortOrder": 207
+    },
+    {
+        "Code": "F372",
+        "Description": "F372 Pharmaceutical and Toiletry Goods Wholesaling",
+        "SortOrder": 208
+    },
+    {
+        "Code": "F373",
+        "Description": "F373 Furniture, Floor Coverings and Other Goods Wholesaling",
+        "SortOrder": 209
+    },
+    {
+        "Code": "F380",
+        "Description": "F380 Commission-Based Wholesaling",
+        "SortOrder": 210
+    },
+    {
+        "Code": "G391",
+        "Description": "G391 Motor Vehicle Retailing",
+        "SortOrder": 211
+    },
+    {
+        "Code": "G392",
+        "Description": "G392 Motor Vehicle Parts Retailing",
+        "SortOrder": 212
+    },
+    {
+        "Code": "G400",
+        "Description": "G400 Fuel Retailing",
+        "SortOrder": 213
+    },
+    {
+        "Code": "G411",
+        "Description": "G411 Supermarket and Grocery Stores",
+        "SortOrder": 214
+    },
+    {
+        "Code": "G412",
+        "Description": "G412 Specialised Food Retailing",
+        "SortOrder": 215
+    },
+    {
+        "Code": "G421",
+        "Description": "G421 Furniture, Floor Coverings, Houseware and Textile Goods Retailing",
+        "SortOrder": 216
+    },
+    {
+        "Code": "G422",
+        "Description": "G422 Electrical and Electronic Goods Retailing",
+        "SortOrder": 217
+    },
+    {
+        "Code": "G423",
+        "Description": "G423 Hardware, Building and Garden Supplies Retailing",
+        "SortOrder": 218
+    },
+    {
+        "Code": "G424",
+        "Description": "G424 Recreational Goods Retailing",
+        "SortOrder": 219
+    },
+    {
+        "Code": "G425",
+        "Description": "G425 Clothing, Footwear and Personal Accessories Retailing",
+        "SortOrder": 220
+    },
+    {
+        "Code": "G426",
+        "Description": "G426 Department Stores",
+        "SortOrder": 221
+    },
+    {
+        "Code": "G427",
+        "Description": "G427 Pharmaceutical and Other Store-Based Retailing",
+        "SortOrder": 222
+    },
+    {
+        "Code": "G431",
+        "Description": "G431 Non-Store Retailing",
+        "SortOrder": 223
+    },
+    {
+        "Code": "G432",
+        "Description": "G432 Retail Commission-Based Buying and/or Selling",
+        "SortOrder": 224
+    },
+    {
+        "Code": "H440",
+        "Description": "H440 Accommodation",
+        "SortOrder": 225
+    },
+    {
+        "Code": "H451",
+        "Description": "H451 Cafes, Restaurants and Takeaway Food Services",
+        "SortOrder": 226
+    },
+    {
+        "Code": "H452",
+        "Description": "H452 Pubs, Taverns and Bars",
+        "SortOrder": 227
+    },
+    {
+        "Code": "H453",
+        "Description": "H453 Clubs (Hospitality)",
+        "SortOrder": 228
+    },
+    {
+        "Code": "I461",
+        "Description": "I461 Road Freight Transport",
+        "SortOrder": 229
+    },
+    {
+        "Code": "I462",
+        "Description": "I462 Road Passenger Transport",
+        "SortOrder": 230
+    },
+    {
+        "Code": "I471",
+        "Description": "I471 Rail Freight Transport",
+        "SortOrder": 231
+    },
+    {
+        "Code": "I472",
+        "Description": "I472 Rail Passenger Transport",
+        "SortOrder": 232
+    },
+    {
+        "Code": "I481",
+        "Description": "I481 Water Freight Transport",
+        "SortOrder": 233
+    },
+    {
+        "Code": "I482",
+        "Description": "I482 Water Passenger Transport",
+        "SortOrder": 234
+    },
+    {
+        "Code": "I490",
+        "Description": "I490 Air and Space Transport",
+        "SortOrder": 235
+    },
+    {
+        "Code": "I501",
+        "Description": "I501 Scenic and Sightseeing Transport",
+        "SortOrder": 236
+    },
+    {
+        "Code": "I502",
+        "Description": "I502 Pipeline and Other Transport",
+        "SortOrder": 237
+    },
+    {
+        "Code": "I510",
+        "Description": "I510 Postal and Courier Pick-up and Delivery Services",
+        "SortOrder": 238
+    },
+    {
+        "Code": "I521",
+        "Description": "I521 Water Transport Support Services",
+        "SortOrder": 239
+    },
+    {
+        "Code": "I522",
+        "Description": "I522 Air Transport Support Services",
+        "SortOrder": 240
+    },
+    {
+        "Code": "I529",
+        "Description": "I529 Other Transport Support Services",
+        "SortOrder": 241
+    },
+    {
+        "Code": "I530",
+        "Description": "I530 Warehousing and Storage Services",
+        "SortOrder": 242
+    },
+    {
+        "Code": "J541",
+        "Description": "J541 Newspaper, Periodical, Book and Directory Publishing",
+        "SortOrder": 243
+    },
+    {
+        "Code": "J542",
+        "Description": "J542 Software Publishing",
+        "SortOrder": 244
+    },
+    {
+        "Code": "J551",
+        "Description": "J551 Motion Picture and Video Activities",
+        "SortOrder": 245
+    },
+    {
+        "Code": "J552",
+        "Description": "J552 Sound Recording and Music Publishing",
+        "SortOrder": 246
+    },
+    {
+        "Code": "J561",
+        "Description": "J561 Radio Broadcasting",
+        "SortOrder": 247
+    },
+    {
+        "Code": "J562",
+        "Description": "J562 Television Broadcasting",
+        "SortOrder": 248
+    },
+    {
+        "Code": "J570",
+        "Description": "J570 Internet Publishing and Broadcasting",
+        "SortOrder": 249
+    },
+    {
+        "Code": "J580",
+        "Description": "J580 Telecommunications Services",
+        "SortOrder": 250
+    },
+    {
+        "Code": "J591",
+        "Description": "J591 Internet Service Providers and Web Search Portals",
+        "SortOrder": 251
+    },
+    {
+        "Code": "J592",
+        "Description": "J592 Data Processing, Web Hosting and Electronic Information Storage Services",
+        "SortOrder": 252
+    },
+    {
+        "Code": "J601",
+        "Description": "J601 Libraries and Archives",
+        "SortOrder": 253
+    },
+    {
+        "Code": "J602",
+        "Description": "J602 Other Information Services",
+        "SortOrder": 254
+    },
+    {
+        "Code": "K621",
+        "Description": "K621 Central Banking",
+        "SortOrder": 255
+    },
+    {
+        "Code": "K622",
+        "Description": "K622 Depository Financial Intermediation",
+        "SortOrder": 256
+    },
+    {
+        "Code": "K623",
+        "Description": "K623 Non-Depository Financing",
+        "SortOrder": 257
+    },
+    {
+        "Code": "K624",
+        "Description": "K624 Financial Asset Investing",
+        "SortOrder": 258
+    },
+    {
+        "Code": "K631",
+        "Description": "K631 Life Insurance",
+        "SortOrder": 259
+    },
+    {
+        "Code": "K632",
+        "Description": "K632 Health and General Insurance",
+        "SortOrder": 260
+    },
+    {
+        "Code": "K633",
+        "Description": "K633 Superannuation Funds",
+        "SortOrder": 261
+    },
+    {
+        "Code": "K641",
+        "Description": "K641 Auxiliary Finance and Investment Services",
+        "SortOrder": 262
+    },
+    {
+        "Code": "K642",
+        "Description": "K642 Auxiliary Insurance Services",
+        "SortOrder": 263
+    },
+    {
+        "Code": "L661",
+        "Description": "L661 Motor Vehicle and Transport Equipment Rental and Hiring",
+        "SortOrder": 264
+    },
+    {
+        "Code": "L662",
+        "Description": "L662 Farm Animal and Bloodstock Leasing",
+        "SortOrder": 265
+    },
+    {
+        "Code": "L663",
+        "Description": "L663 Other Goods and Equipment Rental and Hiring",
+        "SortOrder": 266
+    },
+    {
+        "Code": "L664",
+        "Description": "L664 Non-Financial Intangible Assets (Except Copyrights) Leasing",
+        "SortOrder": 267
+    },
+    {
+        "Code": "L671",
+        "Description": "L671 Property Operators",
+        "SortOrder": 268
+    },
+    {
+        "Code": "L672",
+        "Description": "L672 Real Estate Services",
+        "SortOrder": 269
+    },
+    {
+        "Code": "M691",
+        "Description": "M691 Scientific Research Services",
+        "SortOrder": 270
+    },
+    {
+        "Code": "M692",
+        "Description": "M692 Architectural, Engineering and Technical Services",
+        "SortOrder": 271
+    },
+    {
+        "Code": "M693",
+        "Description": "M693 Legal and Accounting Services",
+        "SortOrder": 272
+    },
+    {
+        "Code": "M694",
+        "Description": "M694 Advertising Services",
+        "SortOrder": 273
+    },
+    {
+        "Code": "M695",
+        "Description": "M695 Market Research and Statistical Services",
+        "SortOrder": 274
+    },
+    {
+        "Code": "M696",
+        "Description": "M696 Management and Related Consulting Services",
+        "SortOrder": 275
+    },
+    {
+        "Code": "M697",
+        "Description": "M697 Veterinary Services",
+        "SortOrder": 276
+    },
+    {
+        "Code": "M699",
+        "Description": "M699 Other Professional, Scientific and Technical Services",
+        "SortOrder": 277
+    },
+    {
+        "Code": "M700",
+        "Description": "M700 Computer System Design and Related Services",
+        "SortOrder": 278
+    },
+    {
+        "Code": "N721",
+        "Description": "N721 Employment Services",
+        "SortOrder": 279
+    },
+    {
+        "Code": "N722",
+        "Description": "N722 Travel Agency Services",
+        "SortOrder": 280
+    },
+    {
+        "Code": "N729",
+        "Description": "N729 Other Administrative Services",
+        "SortOrder": 281
+    },
+    {
+        "Code": "N731",
+        "Description": "N731 Building Cleaning, Pest Control and Gardening Services",
+        "SortOrder": 282
+    },
+    {
+        "Code": "N732",
+        "Description": "N732 Packaging and Labelling Services",
+        "SortOrder": 283
+    },
+    {
+        "Code": "O751",
+        "Description": "O751 Central Government Administration",
+        "SortOrder": 284
+    },
+    {
+        "Code": "O752",
+        "Description": "O752 State Government Administration",
+        "SortOrder": 285
+    },
+    {
+        "Code": "O753",
+        "Description": "O753 Local Government Administration",
+        "SortOrder": 286
+    },
+    {
+        "Code": "O754",
+        "Description": "O754 Justice",
+        "SortOrder": 287
+    },
+    {
+        "Code": "O755",
+        "Description": "O755 Government Representation",
+        "SortOrder": 288
+    },
+    {
+        "Code": "O760",
+        "Description": "O760 Defence",
+        "SortOrder": 289
+    },
+    {
+        "Code": "O771",
+        "Description": "O771 Public Order and Safety Services",
+        "SortOrder": 290
+    },
+    {
+        "Code": "O772",
+        "Description": "O772 Regulatory Services",
+        "SortOrder": 291
+    },
+    {
+        "Code": "P801",
+        "Description": "P801 Preschool Education",
+        "SortOrder": 292
+    },
+    {
+        "Code": "P802",
+        "Description": "P802 School Education",
+        "SortOrder": 293
+    },
+    {
+        "Code": "P810",
+        "Description": "P810 Tertiary Education",
+        "SortOrder": 294
+    },
+    {
+        "Code": "P821",
+        "Description": "P821 Adult, Community and Other Education",
+        "SortOrder": 295
+    },
+    {
+        "Code": "P822",
+        "Description": "P822 Educational Support Services",
+        "SortOrder": 296
+    },
+    {
+        "Code": "Q840",
+        "Description": "Q840 Hospitals",
+        "SortOrder": 297
+    },
+    {
+        "Code": "Q851",
+        "Description": "Q851 Medical Services",
+        "SortOrder": 298
+    },
+    {
+        "Code": "Q852",
+        "Description": "Q852 Pathology and Diagnostic Imaging Services",
+        "SortOrder": 299
+    },
+    {
+        "Code": "Q853",
+        "Description": "Q853 Allied Health Services",
+        "SortOrder": 300
+    },
+    {
+        "Code": "Q859",
+        "Description": "Q859 Other Health Care Services",
+        "SortOrder": 301
+    },
+    {
+        "Code": "Q860",
+        "Description": "Q860 Residential Care Services",
+        "SortOrder": 302
+    },
+    {
+        "Code": "Q871",
+        "Description": "Q871 Child Care Services",
+        "SortOrder": 303
+    },
+    {
+        "Code": "Q879",
+        "Description": "Q879 Other Social Assistance Services",
+        "SortOrder": 304
+    },
+    {
+        "Code": "R891",
+        "Description": "R891 Museum Operation",
+        "SortOrder": 305
+    },
+    {
+        "Code": "R892",
+        "Description": "R892 Parks and Gardens Operations",
+        "SortOrder": 306
+    },
+    {
+        "Code": "R900",
+        "Description": "R900 Creative and Performing Arts Activities",
+        "SortOrder": 307
+    },
+    {
+        "Code": "R911",
+        "Description": "R911 Sport and Physical Recreation Activities",
+        "SortOrder": 308
+    },
+    {
+        "Code": "R912",
+        "Description": "R912 Horse and Dog Racing Activities",
+        "SortOrder": 309
+    },
+    {
+        "Code": "R913",
+        "Description": "R913 Amusement and Other Recreation Activities",
+        "SortOrder": 310
+    },
+    {
+        "Code": "R920",
+        "Description": "R920 Gambling Activities",
+        "SortOrder": 311
+    },
+    {
+        "Code": "S941",
+        "Description": "S941 Automotive Repair and Maintenance",
+        "SortOrder": 312
+    },
+    {
+        "Code": "S942",
+        "Description": "S942 Machinery and Equipment Repair and Maintenance",
+        "SortOrder": 313
+    },
+    {
+        "Code": "S949",
+        "Description": "S949 Other Repair and Maintenance",
+        "SortOrder": 314
+    },
+    {
+        "Code": "S951",
+        "Description": "S951 Personal Care Services",
+        "SortOrder": 315
+    },
+    {
+        "Code": "S952",
+        "Description": "S952 Funeral, Crematorium and Cemetery Services",
+        "SortOrder": 316
+    },
+    {
+        "Code": "S953",
+        "Description": "S953 Other Personal Services",
+        "SortOrder": 317
+    },
+    {
+        "Code": "S954",
+        "Description": "S954 Religious Services",
+        "SortOrder": 318
+    },
+    {
+        "Code": "S955",
+        "Description": "S955 Civic, Professional and Other Interest Group Services",
+        "SortOrder": 319
+    },
+    {
+        "Code": "S960",
+        "Description": "S960 Private Households Employing Staff",
+        "SortOrder": 320
+    }
+]
